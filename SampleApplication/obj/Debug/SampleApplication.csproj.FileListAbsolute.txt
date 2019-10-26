@@ -1,0 +1,11 @@
+D:\BaiduNetdiskDownload\WcfServiceTest\SampleApplication\bin\SampleApplication.dll.config
+D:\BaiduNetdiskDownload\WcfServiceTest\SampleApplication\bin\SampleApplication.dll
+D:\BaiduNetdiskDownload\WcfServiceTest\SampleApplication\bin\SampleApplication.pdb
+D:\BaiduNetdiskDownload\WcfServiceTest\SampleApplication\obj\Debug\SampleApplication.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\WcfServiceTest\SampleApplication\obj\Debug\SampleApplication.dll
+D:\BaiduNetdiskDownload\WcfServiceTest\SampleApplication\obj\Debug\SampleApplication.pdb
+D:\BaiduNetdiskDownload\WcfServiceTest\SampleApplication\bin\WcfNewtonsoftJsonSerializer.dll
+D:\BaiduNetdiskDownload\WcfServiceTest\SampleApplication\bin\Newtonsoft.Json.dll
+D:\BaiduNetdiskDownload\WcfServiceTest\SampleApplication\bin\WcfNewtonsoftJsonSerializer.pdb
+D:\BaiduNetdiskDownload\WcfServiceTest\SampleApplication\bin\Newtonsoft.Json.xml
+D:\BaiduNetdiskDownload\WcfServiceTest\SampleApplication\obj\Debug\SampleApplication.csprojResolveAssemblyReference.cache
